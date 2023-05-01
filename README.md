@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Curso SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 - 💞️ I’m looking to collaborate on other people like me.
 - 📫 How to reach me tiagop-d@hotmail.com
+- looking for a job. 
 
 <!---
 TiagoPaludo/TiagoPaludo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
